@@ -1,6 +1,3 @@
 [submodule "ardupilot_wiki"]
 	path = ardupilot_wiki
 	url = git@github.com:ArduPilot/ardupilot_wiki.git
-[submodule "ardupilot"]
-	path = ardupilot
-	url = git@github.com:ArduPilot/ardupilot.git
